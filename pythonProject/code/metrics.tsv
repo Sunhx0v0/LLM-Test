@@ -1,0 +1,7 @@
+model_name	selection	explanation_cot
+DeepSeek-V3	69.57	7.988
+ERNIE-3.5	43.17	7.898
+Gemini-1.5	34.47	7.963
+GPT-3.5-Turbo	49.07	6.984
+GPT-4o-Mini	48.14	7.693
+Llama-3.1	47.52	5.401
